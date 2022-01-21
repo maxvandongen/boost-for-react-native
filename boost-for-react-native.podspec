@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.homepage = 'http://www.boost.org'
   spec.summary = 'Boost provides free peer-reviewed portable C++ source libraries.'
   spec.authors = 'Rene Rivera'
-  spec.source = { :git => 'https://github.com/react-native-community/boost-for-react-native.git',
+  spec.source = { :git => 'https://github.com/maxvandongen/boost-for-react-native.git',
                   :tag => 'v1.76.0' }
 
   # Pinning to the same version as React.podspec.
